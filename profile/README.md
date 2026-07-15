@@ -12,6 +12,6 @@ A USDOT / FHWA-funded, Vanderbilt-led partnership.
 
 <img alt="Four-city pin motif" src="assets/logo/path-tn-mark-quad.png" width="200">
 
-🌐 &nbsp;**[path-tn.github.io](https://github.com/path-tn/path-tn.github.io)** &nbsp;·&nbsp; custom domain `path-tn.org` coming soon
+🌐 &nbsp;**[path-tn.github.io](https://path-tn.github.io/)** &nbsp;·&nbsp; custom domain `path-tn.org` coming soon
 
 </div>
